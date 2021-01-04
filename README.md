@@ -1,8 +1,8 @@
 # C-BlackJackGame
 Black Jack command-line game developed in c++ during my course at NSCC. 
 
-#Objective
-Create a command-line blackjack game using OOP principles and the following criteria:
+# Objective
+## Create a command-line blackjack game using OOP principles and the following criteria:
 
 Player is prompted for first name
 Use an array to represent the 52 cards (values 1-52). Store as attribute within card class
